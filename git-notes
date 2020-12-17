@@ -17,8 +17,17 @@ Github
 5. Clone the Remote Repository in the Local Machine
     $ git clone <git-repository-address>
 	$ git clone https://github.com/PankajSre/term6online.git
-	
-6. Check the Status of the Files
+6   $ cd <repository-name>	
+7. Check the Status of the Files
+   $ git status[To check the newly added file and modified files]
+8. Add the newly added and modified files in the repository
+
+    $ git add .|*
+9. Commit the changed to the local git
+   $ git commit -m "Added one file and modified .gitignore"
+   
+10. Push the repository on the Github
+    $ git push
 
 
 
