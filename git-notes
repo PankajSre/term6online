@@ -1,0 +1,34 @@
+Information about Platforms[Android, IOS and Windows]
+
+Wireframe[Structure]
+
+Steps to create the design of an App
+
+Cordova and its event lifecycle
+
+PhoneGap
+
+Github
+
+1. Open Github.com and create an Account
+2. Verify account
+3. create a Repository on the Github
+4. Install Github in your Machine
+5. Clone the Remote Repository in the Local Machine
+    $ git clone <git-repository-address>
+	$ git clone https://github.com/PankajSre/term6online.git
+	
+6. Check the Status of the Files
+
+
+
+
+
+
+
+
+
+
+
+
+
